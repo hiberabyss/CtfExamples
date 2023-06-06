@@ -6,3 +6,5 @@ password to receive a prize!
 # Answer
 
 The decrypted passwd is `f{testing_1_2_3}`
+
+Details: https://zhuanlan.zhihu.com/p/635045169

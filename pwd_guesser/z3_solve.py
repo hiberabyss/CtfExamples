@@ -29,8 +29,6 @@ s.add(local_50_5_1_ == ord('_'))
 
 s.add(((local_50_7_1_ + local_50_3_1_) - local_58_5_1_) - local_50_2_1_ == 0x37)
 
-# bVar3 = (((int)local_50_7_1_ + (int)local_50_3_1_) - (int)local_58_5_1_) - (int)local_50_2_1_ == 0x37;
-
 s.add((local_58_6_1_ - local_50_5_1_) - local_50_3_1_ * local_50_6_1_ == -0x12e3)
 s.add((local_58_5_1_ + local_58_4_1_) - local_58_7_1_ * local_58_3_1_ == -0x2a7f)
 s.add(local_50_7_1_ + local_50_1_1_ * local_50_2_1_ == 0x12ac)
@@ -86,5 +84,3 @@ array = [
 ]
 
 print(array)
-
-# print(s)
